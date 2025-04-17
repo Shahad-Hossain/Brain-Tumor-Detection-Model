@@ -1,2 +1,1 @@
 *.pth filter=lfs diff=lfs merge=lfs -text
-PMRAM[[:space:]]Bangladeshi[[:space:]]Brain[[:space:]]Cancer[[:space:]]-[[:space:]]MRI[[:space:]]Dataset/* filter=lfs diff=lfs merge=lfs -text
